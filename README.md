@@ -1,79 +1,17 @@
-# Hi, I'm Ryan Cramer
+# Ryan Cramer
 
-I'm a Computer Science student at **Saint John's University** with interests in software engineering, cybersecurity, information technology, data science, artificial intelligence, and machine learning.
+I’m a Computer Science student at **Saint John’s University** and a lab teaching assistant in the Computer Science department. I help students work through introductory programming concepts and troubleshoot their lab assignments.
 
-I enjoy building projects, solving technical problems, and applying concepts from my coursework while continuing to expand my experience across different areas of computer science.
-
-## About Me
-
-- 🎓 Computer Science student at Saint John's University
-- 💻 Interested in **Software Engineering, Cybersecurity, IT, Data Science, AI, and Machine Learning**
-- 🧠 Currently studying **Artificial Intelligence, Machine Learning, and Discrete Computational Mathematics**
-- 🚀 Building personal and academic projects to expand my software development experience
-- 🏃 Student-athlete competing in Track & Field at SJU
+I’m interested in software engineering and cybersecurity, and my current coursework includes artificial intelligence and machine learning.
 
 ## Technical Skills
 
-**Programming Languages**
-- Python
-- C++
-- SQL
-- HTML
-- CSS
-
-**Development & Tools**
-- Git
-- GitHub
-- Visual Studio Code
-- Jupyter Notebook
-- Command Line / Terminal
-
-**Data Science & AI**
-- Python
-- Jupyter
-- NumPy
-- pandas
-- Matplotlib
-- Scikit-learn
-- Machine Learning
-- Data Analysis
-
-**IT & Cybersecurity**
-- Windows
-- Linux
-- Networking Fundamentals
-- Computer Hardware & Troubleshooting
-- Cybersecurity Fundamentals
-- TCP/IP
-- DNS
-- Command-Line Tools
-
-**Concepts**
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Software Development
-- Database Management
-- Artificial Intelligence
-- Machine Learning
-- Discrete Mathematics
-- Version Control
-
-## Currently Learning
-
-I'm continuing to develop my knowledge in:
-
-- Artificial Intelligence & Machine Learning
-- Software Engineering
-- Cybersecurity
-- Data Science
-- Networking & IT
-- Algorithms & Problem Solving
-- Game Development
+- **Programming and web** — Python, C++, Java, JavaScript, SQL, HTML, CSS
+- **Development tools** — Git, GitHub, Visual Studio Code, Jupyter Notebook, command line
+- **Data analysis and machine learning** — pandas, NumPy, scikit-learn, Matplotlib
+- **Software fundamentals** — Object-oriented programming, data structures, algorithms, and relational databases
+- **Systems and networking** — Linux, Windows, TCP/IP, DNS, and network troubleshooting
 
 ## Projects
 
-I'm building my portfolio through personal projects and computer science coursework. Check out my pinned repositories below for some of my recent work.
-
-## Outside of Computer Science
-
-Outside of programming, I compete as a collegiate sprinter for **Saint John's Track & Field**. I also enjoy hiking, and working on personal projects.
+See my pinned repositories below for personal and coursework projects in software development and data analysis.
